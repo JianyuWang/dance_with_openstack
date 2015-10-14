@@ -1,0 +1,5 @@
+ERROR:root:integer division or modulo by zero
+Traceback (most recent call last):
+  File "logging-t.py", line 7, in <module>
+    1/0
+ZeroDivisionError: integer division or modulo by zero
